@@ -1,0 +1,2 @@
+In read_test.php,index.php update,delete,add buttons & database requests work fine with  database query completion as well
+data is fetched from data variable in js at ajax request function.

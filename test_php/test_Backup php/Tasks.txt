@@ -1,0 +1,4 @@
+Form validation *
+Sweet alert *
+DB_Config *
+Modal_Menu for operations

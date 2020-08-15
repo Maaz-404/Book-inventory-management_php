@@ -1,0 +1,6 @@
+Use higher order fucntions (foreach , repeat, map etc) to perform operations  OR convert previous functions to higher order functions
+Migrate to MVC
+Form validation *
+Sweet alert *
+DB_Config *
+Modal_Menu for operations
